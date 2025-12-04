@@ -1,1 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--logos" width="31.88" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 257"><defs><linearGradient id="IconifyId1813088fe1fbc01fb466" x1="-.828%" x2="57.636%" y1="7.652%" y2="78.411%"><stop offset="0%" stop-color="#41D1FF"></stop><stop offset="100%" stop-color="#BD34FE"></stop></linearGradient><linearGradient id="IconifyId1813088fe1fbc01fb467" x1="43.376%" x2="50.316%" y1="2.242%" y2="89.03%"><stop offset="0%" stop-color="#FFEA83"></stop><stop offset="8.333%" stop-color="#FFDD35"></stop><stop offset="100%" stop-color="#FFA800"></stop></linearGradient></defs><path fill="url(#IconifyId1813088fe1fbc01fb466)" d="M255.153 37.938L134.897 252.976c-2.483 4.44-8.862 4.466-11.382.048L.875 37.958c-2.746-4.814 1.371-10.646 6.827-9.67l120.385 21.517a6.537 6.537 0 0 0 2.322-.004l117.867-21.483c5.438-.991 9.574 4.796 6.877 9.62Z"></path><path fill="url(#IconifyId1813088fe1fbc01fb467)" d="M185.432.063L96.44 17.501a3.268 3.268 0 0 0-2.634 3.014l-5.474 92.456a3.268 3.268 0 0 0 3.997 3.378l24.777-5.718c2.318-.535 4.413 1.507 3.936 3.838l-7.361 36.047c-.495 2.426 1.782 4.5 4.151 3.78l15.304-4.649c2.372-.72 4.652 1.36 4.15 3.788l-11.698 56.621c-.732 3.542 3.979 5.473 5.943 2.437l1.313-2.028l72.516-144.72c1.215-2.423-.88-5.186-3.54-4.672l-25.505 4.922c-2.396.462-4.435-1.77-3.759-4.114l16.646-57.705c.677-2.35-1.37-4.583-3.769-4.113Z"></path></svg>
+<svg viewBox="0 0 200 60" xmlns="http://www.w3.org/2000/svg">
+  <!-- Letter A -->
+  <path d="M 15 50 L 25 20 L 35 50 M 20 40 L 30 40" stroke="#2c5282" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Letter U -->
+  <path d="M 40 20 L 40 40 Q 40 50 50 50 Q 60 50 60 40 L 60 20" stroke="#2c5282" stroke-width="3" fill="none" stroke-linecap="round"/>
+  
+  <!-- Letter T -->
+  <line x1="67" y1="20" x2="83" y2="20" stroke="#2c5282" stroke-width="3" stroke-linecap="round"/>
+  <line x1="75" y1="20" x2="75" y2="50" stroke="#2c5282" stroke-width="3" stroke-linecap="round"/>
+  
+  <!-- Letter O -->
+  <ellipse cx="100" cy="35" rx="10" ry="15" stroke="#2c5282" stroke-width="3" fill="none"/>
+  
+  <!-- Letter P -->
+  <path d="M 115 50 L 115 20 L 125 20 Q 132 20 132 27.5 Q 132 35 125 35 L 115 35" stroke="#2c5282" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Letter S -->
+  <path d="M 147 25 Q 142 20 137 22 Q 132 24 135 30 Q 138 36 143 38 Q 148 40 146 45 Q 144 50 139 48" stroke="#2c5282" stroke-width="3" fill="none" stroke-linecap="round"/>
+  
+  <!-- Letter Y -->
+  <path d="M 152 20 L 160 35 M 168 20 L 160 35 L 160 50" stroke="#2c5282" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Medical cross accent -->
+  <g transform="translate(178, 30)">
+    <rect x="-2" y="-8" width="4" height="16" fill="#3b82f6" rx="1"/>
+    <rect x="-8" y="-2" width="16" height="4" fill="#3b82f6" rx="1"/>
+  </g>
+</svg>

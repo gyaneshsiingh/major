@@ -9,7 +9,7 @@ const Sidebar = () => {
         <ul className="List">
             <li><NavLink to = "/" className="nav-link">Upload Video</NavLink></li>
             <li><NavLink to = "/result" className="nav-link">Result</NavLink></li>
-            <li><NavLink to = "/report" className="nav-link">Download Report</NavLink></li>
+           
         </ul>
     </div>
     )
