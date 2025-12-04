@@ -1,0 +1,61 @@
+.result-container {
+    margin-top: 20px;
+}
+
+.result-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.result-content {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.result-details {
+    margin: 6px 0;
+    font-size: 16px;
+}
+
+.result-plot {
+    max-width: 420px;
+}
+
+.result-image {
+    max-width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.result-actions {
+    margin-top: 20px;
+}
+
+.csv-btn {
+    padding: 8px 16px;
+    background-color: #0077ff;
+    border: none;
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.csv-btn:hover {
+    background-color: #005bcc;
+}
+
+.result-raw {
+    margin-top: 10px;
+}
+
+.result-raw pre {
+    max-height: 200px;
+    overflow: auto;
+    background: #fafafa;
+    padding: 10px;
+    border-radius: 6px;
+}

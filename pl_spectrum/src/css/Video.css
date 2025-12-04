@@ -1,0 +1,59 @@
+
+.main {
+    margin-left: 200px;
+    flex:1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    overflow-x: hidden;
+}
+.title_video {
+    padding: 20px;
+}
+
+.sample-input {
+    text-align: center;
+    width: 480px;
+    padding: 10px;
+    border-radius: 16px;
+    border: 1.5px solid #0074d9;
+    font-size: 15px;
+    outline: none;
+    margin-bottom: 10px;
+
+}
+.upload-card {
+    text-align: center;
+    background-color: white;
+    width: 500px;
+    
+    padding: 30px;
+    border-radius: 16px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.upload-box {
+    display: block;
+    border: 2px dotted #0074d9;
+    border-radius: 12px;
+    cursor: pointer;
+    padding: 50px 20px;
+    font-weight: 500;
+    transition: background 0.3s;
+}
+
+.upload-box:hover {
+  background-color: #f0f8ff;
+}
+
+.upload-btn {
+    margin-top: 10px;
+    border: none;
+    background-color: #0074d9;
+    border-radius: 8px;
+    font-size: 15px;
+    padding: 10px 20px;
+    color: white;
+    cursor: pointer;
+}

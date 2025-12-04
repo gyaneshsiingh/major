@@ -1,0 +1,35 @@
+
+.menu {
+    background-color: blue;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+    background: linear-gradient(180deg, #001f3f 0%, #003366 100%);
+    height: 100vh;
+     box-shadow: 16px 0 22px rgba(0, 0, 0, 0.25);
+     position: sticky;        /* 👈 Keeps navbar fixed while scrolling */
+  top: 0;                  /* 👈 Sticks to top of page */
+  z-index: 1001; 
+}
+
+.Title {
+ padding: 20px;
+ text-align: center;
+  color: #ffffff;
+}
+
+.List {
+ color: white;
+ list-style: none;
+ text-align: center; 
+}
+
+.List li {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    gap: 22px;
+    padding: 10px 12px;
+}
