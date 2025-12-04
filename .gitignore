@@ -1,0 +1,9 @@
+backend/app.log
+backend/error.log
+backend/'nm RGB.csv'
+backend/node_modules/
+backend/best_ensemble_model.joblib
+backend/pl_results.db
+backend/saved_results.csv
+backend/server.log
+

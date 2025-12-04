@@ -14,7 +14,7 @@ return (
     <Routes>
      <Route path="/" element={<Video />} />
           <Route path="/result" element={<Result />} />
-          <Route path="/report" element={<Reports />} />
+      
     </Routes>
   </div>
 
